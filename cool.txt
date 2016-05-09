@@ -1,0 +1,6 @@
+fame:popularity.
+boys:small men.
+girl:a female creature.
+name:someones name.
+game:done for fun.
+play:to play a game.
